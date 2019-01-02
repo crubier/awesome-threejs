@@ -6,6 +6,8 @@
 - [threejs.org/examples](http://threejs.org/examples/)
 - [threejs.org/editor](http://threejs.org/editor/)
 
+ https://stemkoski.github.io/Three.js/
+
 ---
 
 - [Talk: Cloud Gaming for THREE.js](http://jeromeetienne.github.io/threex.cloudgaming/slides/)
@@ -13,6 +15,8 @@
 - [ThreeNodes - Visual Web Client Programming for webgl](https://github.com/idflood/ThreeNodes.js)
 
 ---
+
+
 
 - [threejs-inspector - chrome devtool extension to debug three.js](https://github.com/jeromeetienne/threejs-inspector)
 - [threeVR - An orientation-aware Virtual Reality controller for three.js](https://github.com/richtr/threeVR)
